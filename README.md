@@ -47,3 +47,34 @@ Examples:
 *5. Fast_Port_Scanner.py github.com [NONE]  ==>  Default = 1-1000*
 
 ![5](https://user-images.githubusercontent.com/109466846/187525898-5eb5b02c-4f82-44f7-ac07-47d0be00f568.png)
+
+
+# **Required Library**
+- pyfiglet
+```
+pip install pyfiglet 
+```
+- sockets
+```
+pip install sockets
+```
+- threaded
+```
+pip install threaded
+```
+- futures
+```
+pip install futures
+```
+- DateTime
+```
+pip install DateTime
+```
+- argparse
+```
+pip install argparse
+```
+# **Installing Fast Port Scanner**(Linux)
+```
+git clone https://github.com/doguhanpolat/fast-port-scanner.git
+```
