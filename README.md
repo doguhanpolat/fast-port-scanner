@@ -1,1 +1,1 @@
-# **fast-port-scanner**
+# **Fast Port Scanner**
